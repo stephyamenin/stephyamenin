@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Stephanie R. Amenin
+- 👀 I’m interested in Codings and Innovation of Technologies
+- 🌱 I’m currently learning Programming Languages
+- 💞️ I’m looking to collaborate on Algorithms and Data Structure
+- 📫 How to reach me in my email address @amenin.stephanierio@gmail.com
